@@ -1,3 +1,5 @@
+![Banner da empresa](assets/logo.png)
+
 # 📘 Curso de Linguagem C
 
 Este repositório contém os códigos desenvolvidos durante o curso de **Linguagem C**, organizados por módulos e aulas. O compilador utilizado foi o **GCC**, com desenvolvimento feito na IDE **Visual Studio Code**.
